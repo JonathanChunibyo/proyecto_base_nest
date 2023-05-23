@@ -1,0 +1,20 @@
+{
+  "name": "proyecto_base_nest",
+  "version": "1.0.0",
+  "description": "En este proyecto estaré desarrollando conceptos e integración con estas tecnologias: - API REST -> express Validator - Middleware’s -> Joi  - graphQl - Apollo Server - Nest Js - Sequelize o TypeORM - Passport.js o JWT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanChunibyo/proyecto_base_nest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonathanChunibyo/proyecto_base_nest/issues"
+  },
+  "homepage": "https://github.com/JonathanChunibyo/proyecto_base_nest#readme"
+}
